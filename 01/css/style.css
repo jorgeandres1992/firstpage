@@ -1,0 +1,14 @@
+h1{
+	color:red;
+	font-size: 30px;
+}
+
+
+
+ol {
+     font-soze:20px;
+     }
+
+ol>li>strong{
+     color:peru;
+}
